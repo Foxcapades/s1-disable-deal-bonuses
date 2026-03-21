@@ -1,0 +1,11 @@
+/*
+
+!docs/
+!DisableDealBonuses*
+!DisableDealBonuses/*
+!license
+!makefile
+!readme.adoc
+!.gitignore
+
+*.user
